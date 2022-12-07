@@ -1,6 +1,8 @@
-# [Drum Kit Website](https://alexhill-coder.github.io/drum-kit-website/)
+# Drum Kit Website
 
 A simple website that allows the user to press a button on the site or the keyboard to play drum sounds. The button will also indicate that it has been pressed.
+
+[Click here to give it a try.](https://alexhill-coder.github.io/drum-kit-website/)
 
 ## How to Use
 
